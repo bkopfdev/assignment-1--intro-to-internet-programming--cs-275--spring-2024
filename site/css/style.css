@@ -1,0 +1,47 @@
+.main-title
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: "Copperplate", Times, fantasy;
+    line-height: 35px;
+
+}
+
+h1
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: "Copperplate", Times, fantasy;
+    line-height: 35px;
+}
+
+h2
+{
+    line-height: 35px;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Copperplate", Times, fantasy;
+}
+
+nav ul
+{
+    list-style-type: none; 
+    display: flex;   
+    justify-content: center;
+}
+
+nav ul li
+{
+    font-family: "Times New Roman", Times, serif;
+    border: 1px solid black;
+    width:  110px;
+    text-align: center;
+    background-color: paleturquoise;
+}
+
+p
+{
+    font-family: "Times New Roman", Times, serif;
+    margin: auto;
+    text-align: center;
+}
